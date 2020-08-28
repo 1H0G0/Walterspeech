@@ -1,4 +1,5 @@
-Python app that uses speech recognition and text-to-speech using the Google text-to-speech API called Walter
+Python app that uses speech recognition and text-to-speech using the Google text-to-speech API called Walter.
+
 
 ### Dependencies
 
